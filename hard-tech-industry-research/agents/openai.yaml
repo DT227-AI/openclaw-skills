@@ -1,0 +1,4 @@
+interface:
+  display_name: "硬科技行业深度研究"
+  short_description: "从技术原理与路线比较出发，验证产业化条件并形成投资研究判断"
+  default_prompt: "使用 $hard-tech-industry-research 研究指定硬科技行业，按底层原理、技术路线、应用验证、产业链公司与投资策略展开，并注明数据截止日与证据缺口。"
